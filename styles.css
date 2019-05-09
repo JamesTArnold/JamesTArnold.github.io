@@ -112,6 +112,18 @@ body {
   text-align: center;
 }
 
+.projects .singled {
+  margin: auto;
+  background-color: lightgrey;
+  padding: 50px 50px 100px 50px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+}
+.projects  {
+    padding-top: 150px;
+}
+
 
 /*/////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////
